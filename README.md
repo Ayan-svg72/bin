@@ -18,7 +18,7 @@ pip install -r requirements.txt
 uvicorn index:app
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ayan2235/adyen-enc-and-bin-info.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhra0023/bin.git)
 
 
 ## Usage
