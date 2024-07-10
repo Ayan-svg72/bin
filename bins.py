@@ -7,9 +7,9 @@ with open('bins.csv', mode='r', encoding='utf-8') as inp:
     reader = csv.reader(inp)
     for x in reader:
         x2 = {
-            "country": x[9],
-            "iso_2": x[8],
-            "flag": country_code_to_flag(x[7]),
+            "country": x[7],
+            "iso": x[6],
+            "flag": country_code_to_flag(x[5]),
             "vendor": x[1],
             "type": x[2],
             "level": x[3],
