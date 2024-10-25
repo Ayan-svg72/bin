@@ -2,9 +2,9 @@
 
 > api for getting bin info and getting encrypted card details for adyen.
 
-![GitHub stars](https://img.shields.io/github/stars/r0ld3x/adyen-enc-and-bin-info)
-![GitHub forks](https://img.shields.io/github/forks/r0ld3x/adyen-enc-and-bin-info)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/r0ld3x/adyen-enc-and-bin-info/commits/master)
+![GitHub stars](https://img.shields.io/github/stars/Ayan-svg72/bin)
+![GitHub forks](https://img.shields.io/github/forks/Ayan-svg72/bin)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Ayan-avg72/bin/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-Telegram-blue.svg)](https://www.linkedin.com/in/varadbhogayata/)
 [![License](http://img.shields.io/:license-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
