@@ -1,4 +1,4 @@
-# Bin Info And Adyen Cse Enc Python
+# Bin Info
 
 > api for getting bin info and getting encrypted card details for adyen.
 
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 uvicorn index:app
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhra0023/bin.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayan-svg72/bin.git)
 
 
 ## Usage
