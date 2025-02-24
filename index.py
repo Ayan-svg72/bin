@@ -12,7 +12,7 @@ import urllib
 app = FastAPI(debug=True, 
               title="Bin lookup By Ayan.", 
               redoc_url=None,
-              description=" Feel free to use. made by @Ay_4n.")
+              description=" Feel free to use. made by @XAY4N.")
 
 
 
@@ -53,11 +53,12 @@ async def bin(bin1):
         'brand': bin_data['vendor'],
         'type': bin_data['type'],
         'level': bin_data['level'],
+        'currency': bin_data['currency'],
         'prepaid': bin_data['prepaid'],                                                                               
     }
 
 
 @app.get("/")
 async def start():
-    return RedirectResponse("http://www.github.com/")
+    return RedirectResponse("https://t.me/XAY4N")
 
