@@ -16,7 +16,7 @@ with open('bins.csv', mode='r', encoding='utf-8') as inp:
             "type": x[2],
             "level": x[3],
             "bank_name": x[4],
-            "prepaid": True if x[3] == "PREPAID" else False
+            "prepaid": True if "PREPAID" in x[3] else False
         }
         mydict[x[0]] = x2
 
